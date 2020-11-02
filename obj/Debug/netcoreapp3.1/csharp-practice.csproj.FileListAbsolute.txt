@@ -1,0 +1,13 @@
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.csprojAssemblyReference.cache
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.AssemblyInfoInputs.cache
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.AssemblyInfo.cs
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.csproj.CoreCompileInputs.cache
+C:\Users\KevinAnderson\orientation\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.exe
+C:\Users\KevinAnderson\orientation\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.deps.json
+C:\Users\KevinAnderson\orientation\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.runtimeconfig.json
+C:\Users\KevinAnderson\orientation\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.runtimeconfig.dev.json
+C:\Users\KevinAnderson\orientation\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.dll
+C:\Users\KevinAnderson\orientation\csharp-practice\bin\Debug\netcoreapp3.1\csharp-practice.pdb
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.dll
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.pdb
+C:\Users\KevinAnderson\orientation\csharp-practice\obj\Debug\netcoreapp3.1\csharp-practice.genruntimeconfig.cache
